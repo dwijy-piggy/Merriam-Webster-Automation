@@ -1,5 +1,5 @@
-# Merriam-Webster-Solvers
-This repository contains solvers for some games on the Merriam-Webster website.
+# Merriam-Webster-Automation
+Automations for games on the Merriam-Webster website.
 
 Instructions for using scripts:
 
