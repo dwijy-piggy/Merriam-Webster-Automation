@@ -11,4 +11,4 @@ Instructions for using scripts:
 
 If you are on a computer, you can also paste these scripts directly into the console in your browser's developer tools
 
-Scripts must be executed on the screen with the start button (do not press the start button yourself)
+Scripts must be executed on the screen with the start button for the game (do not press the start button yourself)
