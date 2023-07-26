@@ -10,3 +10,5 @@ Instructions for using scripts:
 5. Execute the script by clicking on the bookmark that contains it
 
 If you are on a computer, you can also paste these scripts directly into the console in your browser's developer tools
+
+Scripts must be executed on the screen with the start button (do not press the start button yourself)
